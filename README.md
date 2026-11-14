@@ -16,7 +16,7 @@ Recent wins:
 🔹 Built Linux based environments and automated workflows with Bash  
 🔹 Built and operated a Kubernetes platform on real hardware  
 🔹 Deployed applications with GitOps using FluxCD  
-🔹 Configured ingress, secrets, monitoring and automated image updates 
+🔹 Configured ingress, secrets, monitoring and automated image updates  
 🔹 Worked with PostgreSQL and CNPG backups  
 🔹 Added monitoring with Prometheus and Grafana  
 
